@@ -27,5 +27,34 @@
   },
   "192.119.64.43": {
     "urls": ["myself.hopto.org"]
+  },
+  "141.164.60.65": {
+    "urls": [
+      "nps-notice.space",
+      "ntshome.space",
+      "npsmsg.space",
+      "nps-center.space",
+      "nps-posts.space",
+      "nps-views.space",
+      "nps-post.space",
+      "nps-main.store",
+      "nps-center.store",
+      "nps-posts.store",
+      "nps-views.store",
+      "ntshome.site",
+      "qoooqledrive.site",
+      "nts-msg.site",
+      "nps-ebook.site",
+      "ntsemail.site",
+      "nts-go.site",
+      "private-center.site",
+      "nps-center.site",
+      "nps-emails.site",
+      "ntsmails.site",
+      "moiss.site",
+      "nps-posts.site",
+      "nps-views.site",
+      "ntsnews.site"
+    ]
   }
 }
