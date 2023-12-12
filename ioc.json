@@ -23,7 +23,13 @@
     ]
   },
   "23.254.129.6": {
-    "urls": ["c-money.linkpc.net", "webhostwatto.work.gd"]
+    "urls": [
+      "c-money.linkpc.net",
+      "webhostwatto.work.gd",
+      "web3.auditprovidre.store",
+      "long.waitingfor.cfd",
+      "autoupdatecheck.work.gd"
+    ]
   },
   "192.119.64.43": {
     "urls": ["myself.hopto.org"]
@@ -57,5 +63,7 @@
       "ntsnews.site"
     ]
   },
-  "167.88.168.24": ["ld-digitaal.com"]
+  "167.88.168.24": {
+    "urls": ["ld-digitaal.com"]
+  }
 }
