@@ -65,5 +65,12 @@
   },
   "167.88.168.24": {
     "urls": ["ld-digitaal.com"]
+  },
+  "104.168.137.21": {
+    "urls": [
+      "www.group-meeting.team",
+      "technical-support.safe-meeting.online",
+      "hashkey.group-meeting.team"
+    ]
   }
 }
