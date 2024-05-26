@@ -149,3 +149,5 @@ telstra.pointsuk.services
 telstra.pointsrj.services
 telstra.pointsmg.services
 telstra.pointspf.services
+
+
