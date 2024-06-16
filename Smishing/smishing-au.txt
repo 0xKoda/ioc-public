@@ -284,3 +284,36 @@ coles-rewardscents.top
 colesspointscolect.info
 coles-rewardscenters.info
 140.23.116.89.static.lrtc.lt
+
+# 43.135.166.251 - AS 132203 (TENCENT)
+
+medicare.mypoxv.ws
+a4.wp-admin.xyz
+medicare.mypowo.ws
+medicare.mypovd.ws
+medicare.mypoyh.ws
+medicare.mypoym.ws
+medicare.mypoze.ws
+fiyscoot.com
+cuv.mydomg.com
+lolaccounts.cc
+tiktokzoo.com
+www.tiktokzoo.com
+
+# 47.239.0.131 - AS 45102 (ALIBABA)
+revenue.optiony.info
+www.optiont.info
+revenue.optiont.info
+www.aunswgov.click
+revenue.aunswgov.click
+www.newgov.click
+revenue.newgov.click
+www.nswgovu.click
+revenue.nswgovu.click
+new.tollsc.click
+revenue.nswgova.click
+www.optiony.info
+www.newgovau.click
+revenue.newgovau.click
+www.tollsc.click
+www.nswgova.click
