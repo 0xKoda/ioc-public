@@ -811,3 +811,24 @@ guess.forgetoken.org
 www.airdrop.forgetoken.org
 syn-047-034-124-119.res.spectrum.com
 047-034-124-119.res.spectrum.com
+
+
+# 103.231.254.114 AS 133380 (LAYER-AS Layerstack Limited)
+
+uniswapvipus.com
+imtokenvipus.com
+metsscoin.com
+imssscoin.com
+www.uniswapvipus.com
+app.uniswapvipus.com
+test1.uniswapvipus.com
+ht.uniswapvipus.com
+103.231.254.114.layerdns.com
+maskvipons.com
+imvipones.com
+www.basevipones.com
+app.basevipones.com
+basevipones.com
+metamaskvip.co
+coinbasevip.co
+103.231.254.114.layerdns.cloud
