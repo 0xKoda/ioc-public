@@ -832,3 +832,19 @@ basevipones.com
 metamaskvip.co
 coinbasevip.co
 103.231.254.114.layerdns.cloud
+
+# 172.245.214.57 AS 36352 (AS-COLOCROSSING)
+
+ai.of-meta.shop
+web.of-meta.shop
+web.the-meta.tech
+ai.of-meta.live
+web.of-meta.live
+web.of-meta.xyz
+172-245-214-57-host.colocrossing.com
+web.the-meta.space
+mail3.pyd725.com
+cmriyrnvcf.com
+kswanke.com
+travelmoretogether.com
+mail.travelmoretogether.com
