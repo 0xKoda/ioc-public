@@ -1,3 +1,17 @@
+# 79.124.40.25 ASN: TAMATIYA-AS, BG
+bitcoin-blender.top
+blender-mixer.org
+blendor.io
+cryptamixer.org
+cryptomixer-btc.com
+cryptomixer-io.xyz
+cryptomixer.vip
+ether-mixer.com
+kryptomixer.io
+sinbad.vip
+tornadocash.pro
+yomix.vip
+
 # 212.192.14.27 
 alienform-migrate.online
 anastassiya-beauty.ru
