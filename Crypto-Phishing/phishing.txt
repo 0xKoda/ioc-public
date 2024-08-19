@@ -1,4 +1,4 @@
-# 79.137.192.228 AS 204603 (PARTNER-AS) 
+# 185.24.233.147 AS 204603 (PARTNER-AS) 
 dkkiib.site
 dkkikkb.online
 sdfgr.de
