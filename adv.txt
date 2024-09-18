@@ -1,0 +1,47 @@
+#  85.90.216.111  AS 199524
+fg002.qqlbx.sbs
+hy830.com
+a047722041.example.com
+device-71f596ca-ab80-4db8-9a52-410064c285d3.remotewd.com
+
+# 23.236.68.229 AS 6134
+kmgzbowwg.com
+
+#  45.80.215.47 AS 202422
+hy529.com PTR
+developer82.example.com PTR
+
+# 89.44.198.254 AS 202422
+liug.xyz
+mail.liug.xyz
+corgi16de.com
+hy529.coom
+storenet.live
+mail.storenet.live
+gr-g-14.uvscloud.net
+
+
+#  45.80.215.154 AS 202422
+fg08.sjy3.top
+ww99.imeizi.me
+
+#  45.13.199.207 AS 3214 
+wkmuynl.com
+jehowxwln.com
+
+#  91.216.190.80 AS 6134
+jgnsqihc.com
+
+#  195.234.62.18 AS 202422
+b1de3.com
+hy529.com
+mail.dpkqz9.shop
+dpkqz9.shop
+futeinside.us
+
+# 45.92.70.112 AS 202422
+ts30.example.com
+accounts4.example.com
+hy529.com
+controle4.grupopetroquimicos.com
+26----feb----rrdd.example.com
